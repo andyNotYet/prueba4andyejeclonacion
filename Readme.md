@@ -1,4 +1,4 @@
-Este repo es para ejemplificar la clonacion en el manual
+﻿Este repo es para ejemplificar la clonacion en el manual
 
 Siéntanse libres de practicar sobre este repositorio, sólo es de prueba.
 
